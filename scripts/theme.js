@@ -1,8 +1,8 @@
 const imageSourceChange = (darkMode) => {
     if (darkMode) {
-      imgDarkLigh.src = "../../assets/img/sun.png"
+      imgDarkLigh.src = "./assets/img/sun.png"
     } else {
-      imgDarkLigh.src = "../../assets/img/moon.png"
+      imgDarkLigh.src = "./assets/img/moon.png"
     }
   }
   
